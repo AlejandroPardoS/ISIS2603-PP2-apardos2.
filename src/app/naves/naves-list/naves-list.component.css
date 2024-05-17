@@ -1,0 +1,20 @@
+.text-center {
+    text-align: center;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between; /* Esto añade espacio entre los elementos */
+}
