@@ -1,5 +1,14 @@
 .logo {
-    width: 100%;
+    width: 40%;
     height: auto;
     max-height: 300px; 
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
 }
