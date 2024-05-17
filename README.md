@@ -1,5 +1,9 @@
 # ISIS2603PP2Apardos2
 
+Alejandro Pardo Sanchez.
+a.pardos2
+202223709
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
